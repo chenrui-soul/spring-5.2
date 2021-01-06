@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.springframework.beans.BeanUtilsTests" tests="23" skipped="0" failures="0" errors="0" timestamp="2020-12-16T17:33:05" hostname="DESKTOP-EMRC5FU" time="0.662">
+  <properties/>
+  <testcase name="testInstantiateClassGivenInterface" classname="org.springframework.beans.BeanUtilsTests" time="0.599"/>
+  <testcase name="testInstantiateClassWithOptionalNullableType" classname="org.springframework.beans.BeanUtilsTests" time="0.013"/>
+  <testcase name="testInstantiateClassWithOptionalPrimitiveType" classname="org.springframework.beans.BeanUtilsTests" time="0.0"/>
+  <testcase name="testCopyPropertiesWithDifferentTypes1" classname="org.springframework.beans.BeanUtilsTests" time="0.033"/>
+  <testcase name="testCopyPropertiesWithDifferentTypes2" classname="org.springframework.beans.BeanUtilsTests" time="0.001"/>
+  <testcase name="testResolveSignatureWithArray" classname="org.springframework.beans.BeanUtilsTests" time="0.0"/>
+  <testcase name="testCopyPropertiesWithEditable" classname="org.springframework.beans.BeanUtilsTests" time="0.0"/>
+  <testcase name="testResolveInvalidSignatureStartParen" classname="org.springframework.beans.BeanUtilsTests" time="0.001"/>
+  <testcase name="testFindEditorByConvention" classname="org.springframework.beans.BeanUtilsTests" time="0.002"/>
+  <testcase name="testResolveSimpleSignature" classname="org.springframework.beans.BeanUtilsTests" time="0.0"/>
+  <testcase name="testResolveWithAndWithoutArgList" classname="org.springframework.beans.BeanUtilsTests" time="0.0"/>
+  <testcase name="testCopyPropertiesWithIgnore" classname="org.springframework.beans.BeanUtilsTests" time="0.0"/>
+  <testcase name="testInstantiateClassGivenClassWithoutDefaultConstructor" classname="org.springframework.beans.BeanUtilsTests" time="0.001"/>
+  <testcase name="testResolveInvalidSignatureEndParen" classname="org.springframework.beans.BeanUtilsTests" time="0.0"/>
+  <testcase name="testCopyPropertiesWithIgnoredNonExistingProperty" classname="org.springframework.beans.BeanUtilsTests" time="0.001"/>
+  <testcase name="testCopyPropertiesWithInvalidProperty" classname="org.springframework.beans.BeanUtilsTests" time="0.002"/>
+  <testcase name="testResolveTypedSignature" classname="org.springframework.beans.BeanUtilsTests" time="0.0"/>
+  <testcase name="testSPR6063" classname="org.springframework.beans.BeanUtilsTests" time="0.002"/>
+  <testcase name="testGetPropertyDescriptors" classname="org.springframework.beans.BeanUtilsTests" time="0.006"/>
+  <testcase name="testResolveOverloadedSignature" classname="org.springframework.beans.BeanUtilsTests" time="0.0"/>
+  <testcase name="testCopyProperties" classname="org.springframework.beans.BeanUtilsTests" time="0.0"/>
+  <testcase name="testInstantiateClassWithMoreArgsThanParameters" classname="org.springframework.beans.BeanUtilsTests" time="0.0"/>
+  <testcase name="testBeanPropertyIsArray" classname="org.springframework.beans.BeanUtilsTests" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

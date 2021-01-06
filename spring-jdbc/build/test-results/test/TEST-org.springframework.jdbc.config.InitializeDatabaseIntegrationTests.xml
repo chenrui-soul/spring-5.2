@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.springframework.jdbc.config.InitializeDatabaseIntegrationTests" tests="7" skipped="0" failures="0" errors="0" timestamp="2020-12-16T17:34:38" hostname="DESKTOP-EMRC5FU" time="1.555">
+  <properties/>
+  <testcase name="testIgnoreFailedDrops" classname="org.springframework.jdbc.config.InitializeDatabaseIntegrationTests" time="1.284"/>
+  <testcase name="testScriptNameWithExpressions" classname="org.springframework.jdbc.config.InitializeDatabaseIntegrationTests" time="0.08"/>
+  <testcase name="testScriptNameWithPlaceholder" classname="org.springframework.jdbc.config.InitializeDatabaseIntegrationTests" time="0.047"/>
+  <testcase name="testScriptNameWithPattern" classname="org.springframework.jdbc.config.InitializeDatabaseIntegrationTests" time="0.045"/>
+  <testcase name="testCacheInitialization" classname="org.springframework.jdbc.config.InitializeDatabaseIntegrationTests" time="0.028"/>
+  <testcase name="testCreateEmbeddedDatabase" classname="org.springframework.jdbc.config.InitializeDatabaseIntegrationTests" time="0.021"/>
+  <testcase name="testDisableCreateEmbeddedDatabase" classname="org.springframework.jdbc.config.InitializeDatabaseIntegrationTests" time="0.05"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

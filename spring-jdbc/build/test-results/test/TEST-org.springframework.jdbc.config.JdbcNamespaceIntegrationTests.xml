@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.springframework.jdbc.config.JdbcNamespaceIntegrationTests" tests="15" skipped="2" failures="0" errors="0" timestamp="2020-12-16T17:34:39" hostname="DESKTOP-EMRC5FU" time="0.439">
+  <properties/>
+  <testcase name="createAndDestroyNestedWithH2" classname="org.springframework.jdbc.config.JdbcNamespaceIntegrationTests" time="0.214"/>
+  <testcase name="createEmbeddedDatabaseAgain" classname="org.springframework.jdbc.config.JdbcNamespaceIntegrationTests" time="0.003">
+    <skipped/>
+  </testcase>
+  <testcase name="createWithAnonymousDataSourceAndDefaultDatabaseName" classname="org.springframework.jdbc.config.JdbcNamespaceIntegrationTests" time="0.023"/>
+  <testcase name="initializeWithCustomSeparator" classname="org.springframework.jdbc.config.JdbcNamespaceIntegrationTests" time="0.019"/>
+  <testcase name="multipleDataSourcesHaveDifferentDatabaseNames" classname="org.springframework.jdbc.config.JdbcNamespaceIntegrationTests" time="0.009"/>
+  <testcase name="embeddedWithCustomSeparator" classname="org.springframework.jdbc.config.JdbcNamespaceIntegrationTests" time="0.02"/>
+  <testcase name="createWithEndings" classname="org.springframework.jdbc.config.JdbcNamespaceIntegrationTests" time="0.018"/>
+  <testcase name="createAndDestroy" classname="org.springframework.jdbc.config.JdbcNamespaceIntegrationTests" time="0.021"/>
+  <testcase name="createWithImplicitDatabaseName" classname="org.springframework.jdbc.config.JdbcNamespaceIntegrationTests" time="0.019"/>
+  <testcase name="createAndDestroyNestedWithHsql" classname="org.springframework.jdbc.config.JdbcNamespaceIntegrationTests" time="0.025"/>
+  <testcase name="createWithResourcePattern" classname="org.springframework.jdbc.config.JdbcNamespaceIntegrationTests" time="0.015"/>
+  <testcase name="createWithEndingsNested" classname="org.springframework.jdbc.config.JdbcNamespaceIntegrationTests" time="0.02"/>
+  <testcase name="createWithExplicitDatabaseName" classname="org.springframework.jdbc.config.JdbcNamespaceIntegrationTests" time="0.015"/>
+  <testcase name="createWithGeneratedDatabaseName" classname="org.springframework.jdbc.config.JdbcNamespaceIntegrationTests" time="0.018"/>
+  <testcase name="createEmbeddedDatabase" classname="org.springframework.jdbc.config.JdbcNamespaceIntegrationTests" time="0.0">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

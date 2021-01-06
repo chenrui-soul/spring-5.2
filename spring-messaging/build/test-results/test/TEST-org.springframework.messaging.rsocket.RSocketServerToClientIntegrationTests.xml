@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.springframework.messaging.rsocket.RSocketServerToClientIntegrationTests" tests="4" skipped="0" failures="0" errors="0" timestamp="2020-12-16T17:35:02" hostname="DESKTOP-EMRC5FU" time="0.277">
+  <properties/>
+  <testcase name="echoAsync" classname="org.springframework.messaging.rsocket.RSocketServerToClientIntegrationTests" time="0.055"/>
+  <testcase name="echo" classname="org.springframework.messaging.rsocket.RSocketServerToClientIntegrationTests" time="0.009"/>
+  <testcase name="echoChannel" classname="org.springframework.messaging.rsocket.RSocketServerToClientIntegrationTests" time="0.126"/>
+  <testcase name="echoStream" classname="org.springframework.messaging.rsocket.RSocketServerToClientIntegrationTests" time="0.087"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

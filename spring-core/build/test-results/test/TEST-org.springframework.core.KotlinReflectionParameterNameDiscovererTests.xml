@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.springframework.core.KotlinReflectionParameterNameDiscovererTests" tests="3" skipped="0" failures="0" errors="0" timestamp="2020-12-16T17:34:34" hostname="DESKTOP-EMRC5FU" time="0.013">
-  <properties/>
-  <testcase name="getParameterNamesOnInterface" classname="org.springframework.core.KotlinReflectionParameterNameDiscovererTests" time="0.005"/>
-  <testcase name="getParameterNamesOnExtensionMethod" classname="org.springframework.core.KotlinReflectionParameterNameDiscovererTests" time="0.004"/>
-  <testcase name="getParameterNamesOnClass" classname="org.springframework.core.KotlinReflectionParameterNameDiscovererTests" time="0.004"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>

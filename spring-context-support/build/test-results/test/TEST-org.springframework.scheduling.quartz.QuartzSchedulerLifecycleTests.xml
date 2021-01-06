@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.springframework.scheduling.quartz.QuartzSchedulerLifecycleTests" tests="2" skipped="0" failures="0" errors="0" timestamp="2020-12-16T17:34:21" hostname="DESKTOP-EMRC5FU" time="0.093">
-  <properties/>
-  <testcase name="destroyLazyInitSchedulerWithCustomShutdownOrderDoesNotHang" classname="org.springframework.scheduling.quartz.QuartzSchedulerLifecycleTests" time="0.082"/>
-  <testcase name="destroyLazyInitSchedulerWithDefaultShutdownOrderDoesNotHang" classname="org.springframework.scheduling.quartz.QuartzSchedulerLifecycleTests" time="0.011"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>

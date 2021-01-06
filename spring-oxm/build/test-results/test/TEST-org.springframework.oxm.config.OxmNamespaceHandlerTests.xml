@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.springframework.oxm.config.OxmNamespaceHandlerTests" tests="2" skipped="0" failures="0" errors="0" timestamp="2020-12-16T17:28:10" hostname="DESKTOP-EMRC5FU" time="1.128">
-  <properties/>
-  <testcase name="jaxb2ClassesToBeBoundMarshaller" classname="org.springframework.oxm.config.OxmNamespaceHandlerTests" time="1.11"/>
-  <testcase name="jaxb2ContextPathMarshaller" classname="org.springframework.oxm.config.OxmNamespaceHandlerTests" time="0.018"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>

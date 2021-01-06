@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.springframework.context.annotation.Spr11202Tests" tests="2" skipped="0" failures="0" errors="0" timestamp="2020-12-16T17:33:34" hostname="DESKTOP-EMRC5FU" time="0.008">
-  <properties/>
-  <testcase name="testWithImporter" classname="org.springframework.context.annotation.Spr11202Tests" time="0.007"/>
-  <testcase name="testWithoutImporter" classname="org.springframework.context.annotation.Spr11202Tests" time="0.001"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>

@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.springframework.messaging.rsocket.annotation.support.RSocketFrameTypeMessageConditionTests" tests="2" skipped="0" failures="0" errors="0" timestamp="2020-12-16T17:35:00" hostname="DESKTOP-EMRC5FU" time="0.003">
-  <properties/>
-  <testcase name="compareTo" classname="org.springframework.messaging.rsocket.annotation.support.RSocketFrameTypeMessageConditionTests" time="0.001"/>
-  <testcase name="getMatchingCondition" classname="org.springframework.messaging.rsocket.annotation.support.RSocketFrameTypeMessageConditionTests" time="0.002"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
